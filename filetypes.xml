@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="war" type="PLAIN_TEXT" />
+      <mapping pattern="war.txt" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
